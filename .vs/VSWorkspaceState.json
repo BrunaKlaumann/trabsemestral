@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\controllers",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\src\\controllers\\EstoqueController.js",
+  "PreviewInSolutionExplorer": false
+}
