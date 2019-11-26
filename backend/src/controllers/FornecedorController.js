@@ -1,4 +1,4 @@
-const Fornecedor = require('../models/Fornecedor');
+const Fornecedor = require('../models/Forncedor');
 
 module.exports = {
     async all(req, res) {
